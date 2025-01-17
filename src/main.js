@@ -3,10 +3,10 @@ import data from "./data/data";
 import { createThreeScene } from "./threeScene";
 
 const cubes = [
-  "./cubeDrawings/Architecural-Student-Portfolio-1/public/cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.jpg",
-  "./cubeDrawings/Architecural-Student-Portfolio-1/public/cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg",
-  "./cubeDrawings/Architecural-Student-Portfolio-1/public/cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.3.jpg",
-  "./cubeDrawings/Architecural-Student-Portfolio-1/public/cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.4.jpg",
+  "./cubeDrawings/cube.1.webp",
+  "./cubeDrawings/cube2.webp",
+  "./cubeDrawings/cube2.webp",
+  "./cubeDrawings/cube4.webp",
 ];
 
 const trees = [
@@ -15,7 +15,12 @@ const trees = [
   "./treeDrawings/tree3.jpg",
   "./treeDrawings/tree4.jpg",
 ];
-
+const houses = [
+  "“./houseDrawings/house1.jpg",
+  "“./houseDrawings/house2.jpg",
+  "“./houseDrawings/house3.jpg",
+  "“./houseDrawings/house4.jpg",
+];
 document.querySelector("#app").innerHTML = `
   <main id="container">
     <section id="heading">
@@ -68,7 +73,7 @@ document.querySelector("#app").innerHTML = `
           <div id="images">
             ${cubes
               .map(
-                (cube, index) => `<img src="${cube}" alt="cube${index + 1}" />`
+                (house, index) => `<img src="${house}" alt="house${index + 1}" />`
               )
               .join("")}
           </div>
