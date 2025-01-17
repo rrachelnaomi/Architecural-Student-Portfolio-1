@@ -30,9 +30,9 @@ document.querySelector("#app").innerHTML = `
 
     <section id="projects">
       <div id="project-row">
-      Model 1
+      Assignment 1
         <div class="three-model">
-          <img src="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg" id="model1" alt="Model 1 Image" />
+          <img src="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg" id="model1" alt="Assignment 1 Image" />
         </div>
         <div id="images-description">
           <div id="images">
