@@ -3,10 +3,10 @@ import data from "./data/data";
 import { createThreeScene } from "./threeScene";
 
 const cubes = [
-  "./cubeDrawings/cube1.webp",
-  "./cubeDrawings/cube2.webp",
-  "./cubeDrawings/cube3.webp",
-  "./cubeDrawings/cube4.webp",
+  "./cubeDrawings/Architecural-Student-Portfolio-1/public/cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.jpg",
+  "./cubeDrawings/Architecural-Student-Portfolio-1/public/cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg",
+  "./cubeDrawings/Architecural-Student-Portfolio-1/public/cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.3.jpg",
+  "./cubeDrawings/Architecural-Student-Portfolio-1/public/cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.4.jpg",
 ];
 
 const trees = [
@@ -37,7 +37,7 @@ document.querySelector("#app").innerHTML = `
               )
               .join("")}
           </div>
-          <h4 id="description">A cubic 3D model is a geometric representation of a cube, consisting of six equal square faces joined at right angles. Each edge of the cube is of equal length, forming a symmetrical, rigid structure. The model can be textured, colored, or transparent, and it may include variations such as beveled edges or hollow interiors, depending on its intended purpose in design, animation, or engineering.</h4>
+          <h4 id="description">Projet 1, Cadavre Exquis. A collage depicting a topic that inspires and relates to my own core philosophy, meaningful human experience. This piece was made using photoshop to construct the image and develop the visual tagging language to examine the scene.</h4>
         </div>
       </div>
 
