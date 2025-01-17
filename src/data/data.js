@@ -6,6 +6,7 @@ const data = {
     contact: {
         email: "rachel.bekker@ucalgary.ca",
         phone: "587-220-4465",
+        Linkedin: 
         github: "https://github.com/rrachelnaomi",
     }
 }
