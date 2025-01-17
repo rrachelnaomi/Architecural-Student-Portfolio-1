@@ -2,7 +2,7 @@
 
 const data = {
     name: "Rachel Bekker",
-    bio: "Undergraduate Bachelor of Design in City Innovation student at the University of Calgary passionate about sustainability and enhancing the human experience. My passion lies in creating meaningful designs that enrich life while giving back to the environment.",
+    bio: "Undergraduate Bachelor of Design in City Innovation student at the University of Calgary passionate about sustainability and enhancing the human experience.",
     contact: {
         email: "rachel.bekker@ucalgary.ca",
         phone: "587-220-4465",
