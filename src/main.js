@@ -3,7 +3,7 @@ import data from "./data/data";
 import { createThreeScene } from "./threeScene";
 
 const cubes = [
-  "./cubeDrawings/cube.1.webp",
+  "./cubeDrawings/cube1.webp",
   "./cubeDrawings/cube2.webp",
   "./cubeDrawings/cube2.webp",
   "./cubeDrawings/cube4.webp",
@@ -16,10 +16,10 @@ const trees = [
   "./treeDrawings/tree4.jpg",
 ];
 const houses = [
-  "“./houseDrawings/house1.jpg",
-  "“./houseDrawings/house2.jpg",
-  "“./houseDrawings/house3.jpg",
-  "“./houseDrawings/house4.jpg",
+  "./houseDrawings/house1.jpg",
+  "./houseDrawings/house2.jpg",
+  "./houseDrawings/house3.jpg",
+  "./houseDrawings/house4.jpg",
 ];
 document.querySelector("#app").innerHTML = `
   <main id="container">
