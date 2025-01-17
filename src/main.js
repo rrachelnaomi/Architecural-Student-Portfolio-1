@@ -32,7 +32,7 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Model 1
         <div class="three-model">
-          <div id="model1"></div>
+          <img src="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg" id="model1" alt="Model 1 Image" />
         </div>
         <div id="images-description">
           <div id="images">
