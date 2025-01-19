@@ -6,7 +6,6 @@ const cubes = [
   "./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.jpg",
   "./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg",
   "./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.3.jpg",
-  "./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.4.jpg",
 ];
 
 const trees = [
