@@ -31,7 +31,7 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Assignment 1
         <div class="three-model">
-          <img src="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg" id="model1" alt="Assignment 1 Image" />
+          <img src="./cubeDrawings/collage 313.jpg" id="model1" alt="Assignment 1 Image" />
         </div>
         <div id="images-description">
           <div id="images">
