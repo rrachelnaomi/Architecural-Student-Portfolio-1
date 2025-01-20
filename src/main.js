@@ -33,12 +33,14 @@ document.querySelector("#app").innerHTML = `
         <div class="three-model">
         <a href="./collage 313.jpg" target="_blank">
           <img src="./cubeDrawings/collage 313.jpg" id="model1" alt="Assignment 1 Image" />
+          </a>
         </div>
         <div id="images-description">
           <div id="images">
             ${cubes
               .map(
-                (cube, index) => `<img src="${cube}" alt="cube${index + 1}" />`
+                (cube, index) => 
+                  <a href="${cube}" target="_blank"><img src="%{cube}" alt="cube${index + 1}" /></a>
               )
               .join("")}
           </div>
