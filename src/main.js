@@ -33,8 +33,9 @@ document.querySelector("#app").innerHTML = `
         <div class="three-model">
         <a href="./collage 313.jpg" target="_blank">
           <img src="./cubeDrawings/collage 313.jpg" id="model1" alt="Assignment 1 Image" />
-          </a>
+        </a>
         </div>
+        
         <div id="images-description">
           <div id="images">
             ${cubes
