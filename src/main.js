@@ -38,8 +38,8 @@ document.querySelector("#app").innerHTML = `
           <div id="images">
             ${cubes
               .map(
-                (cube, index) => 
-                  <a href="${cube}" target="_blank"><img src="%{cube}" alt="cube${index + 1}" /></a>
+                (cube, index) => `<img src="${cube}" alt="cube${index + 1}" />`
+                
               )
               .join("")}
           </div>
