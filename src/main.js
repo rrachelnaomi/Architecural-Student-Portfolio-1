@@ -39,7 +39,7 @@ document.querySelector("#app").innerHTML = `
         <div id="images-description">
           <div id="images">
   <a href="./cubeDrawings/tile.jpg" target="_blank">
-    <img src="./cubeDrawings/title.jpg" alt="cube1" />
+    <img src="./cubeDrawings/tile.jpg" alt="cube1" />
   </a>
   <a href="./cubeDrawings/2nd.jpg" target="_blank">
     <img src="./cubeDrawings/2nd.jpg" alt="cube1" />
