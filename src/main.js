@@ -35,13 +35,20 @@ document.querySelector("#app").innerHTML = `
         </div>
 
         <div id="images-description">
-          <div id="images">
-            ${cubes
-              .map(
-                (cube, index) => `<img src="${cube}" alt="cube${index + 1}" />`
-                
-              )
-              .join("")}
+        <div id="images">
+  <a href="https://architecural-student-portfolio-1-bazm8tfwi.vercel.app/cubeDrawings/collage%20313.jpg" target="_blank">
+    <img src="./cubeDrawings/collage 313.jpg" alt="cube1" />
+  </a>
+  <a href="https://example.com/page2" target="_blank">
+    <img src="./cubeDrawings/cube2.webp" alt="cube2" />
+  </a>
+  <a href="https://example.com/page3" target="_blank">
+    <img src="./cubeDrawings/cube3.webp" alt="cube3" />
+  </a>
+  <a href="https://example.com/page4" target="_blank">
+    <img src="./cubeDrawings/cube4.webp" alt="cube4" />
+  </a>
+</div>
           </div>
           <h4 id="description">Projet 1, Cadavre Exquis. A collage depicting a topic that inspires and relates to my own core philosophy, meaningful human experience. This piece was made using photoshop to construct the image and develop the visual tagging language to examine the scene.</h4>
         </div>
