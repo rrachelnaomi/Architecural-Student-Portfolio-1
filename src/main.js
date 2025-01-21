@@ -36,6 +36,14 @@ document.querySelector("#app").innerHTML = `
           </a>
         </div>
 
+<div id="images">
+  ${cubes
+    .map(
+      (cube, index) => `<img src="${cube}" alt="cube${index + 1}" />`
+    )
+    .join("")}
+</div>
+
           <h4 id="description">Projet 1, Cadavre Exquis. A collage depicting a topic that inspires and relates to my own core philosophy, meaningful human experience. This piece was made using photoshop to construct the image and develop the visual tagging language to examine the scene.</h4>
         </div>
       </div>
