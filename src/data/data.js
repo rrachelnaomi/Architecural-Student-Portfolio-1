@@ -12,3 +12,24 @@ const data = {
 }
 
 export default data;
+// Example rendering in React
+function ContactLinks({ contact }) {
+    return (
+      <div>
+        <p>Email: {contact.email}</p>
+        <p>Phone: {contact.phone}</p>
+        <p>
+          LinkedIn:{" "}
+          <a href={contact.linkedin} target="_blank" rel="noopener noreferrer">
+            Rachel's LinkedIn
+          </a>
+        </p>
+        <p>
+          GitHub:{" "}
+          <a href={contact.github} target="_blank" rel="noopener noreferrer">
+            Rachel's GitHub
+          </a>
+        </p>
+      </div>
+    );
+  }
