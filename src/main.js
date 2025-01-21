@@ -42,10 +42,10 @@ document.querySelector("#app").innerHTML = `
     <img src="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.jpg" alt="cube1" />
   </a>
   <a href="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg" target="_blank">
-    <img src="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg" alt="cube2" />
+    <img src="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg" alt="cube1" />
   </a>
   <a href="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.3.jpg" target="_blank">
-    <img src="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.3.jpg" alt="cube3" />
+    <img src="./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.3.jpg" alt="cube1" />
   </a>
 </div>
           <h4 id="description">Projet 1, Cadavre Exquis. A collage depicting a topic that inspires and relates to my own core philosophy, meaningful human experience. This piece was made using photoshop to construct the image and develop the visual tagging language to examine the scene.</h4>
