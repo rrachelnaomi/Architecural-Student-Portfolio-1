@@ -3,7 +3,7 @@ import data from "./data/data";
 import { createThreeScene } from "./threeScene";
 
 const cubes = [
-  "./cubeDrawings/tile.jpg",
+  "./cubeDrawings/1st.jpg",
   "./cubeDrawings/2nd.jpg",
   "./cubeDrawings/3rd.jpg",
 ];
@@ -38,8 +38,8 @@ document.querySelector("#app").innerHTML = `
 
         <div id="images-description">
           <div id="images">
-  <a href="./cubeDrawings/tile.jpg" target="_blank">
-    <img src="./cubeDrawings/tile.jpg" alt="cube1" />
+  <a href="./cubeDrawings/1st.jpg" target="_blank">
+    <img src="./cubeDrawings/1st.jpg" alt="cube1" />
   </a>
   <a href="./cubeDrawings/2nd.jpg" target="_blank">
     <img src="./cubeDrawings/2nd.jpg" alt="cube1" />
