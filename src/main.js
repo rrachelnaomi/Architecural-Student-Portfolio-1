@@ -3,9 +3,9 @@ import data from "./data/data";
 import { createThreeScene } from "./threeScene";
 
 const cubes = [
-  "./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.jpg",
-  "./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.2.jpg",
-  "./cubeDrawings/DSGN313_W25_Rachel-Bekker_A1.3.jpg",
+  "./cubeDrawings/tile.jpg",
+  "./cubeDrawings/2nd.jpg",
+  "./cubeDrawings/3rd.jpg",
 ];
 
 const trees = [
@@ -38,7 +38,7 @@ document.querySelector("#app").innerHTML = `
 
         <div id="images-description">
           <div id="images">
-  <a href="./cubeDrawings/title.jpg" target="_blank">
+  <a href="./cubeDrawings/tile.jpg" target="_blank">
     <img src="./cubeDrawings/title.jpg" alt="cube1" />
   </a>
   <a href="./cubeDrawings/2nd.jpg" target="_blank">
