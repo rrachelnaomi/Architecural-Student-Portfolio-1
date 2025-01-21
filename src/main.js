@@ -29,10 +29,10 @@ document.querySelector("#app").innerHTML = `
 
     <section id="projects">
       <div id="project-row">
-      Assignment 1
+      Cadavre Exquis
         <div class="three-model">
         <a href="./cubeDrawings/collage 313.jpg" target="_blank">
-          <img src="./cubeDrawings/collage 313.jpg" id="model1" alt="Assignment 1 Image" />
+          <img src="./cubeDrawings/collage 313.jpg" id="model1" alt="Cadavre Exquis Image" />
           </a>
         </div>
 
