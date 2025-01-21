@@ -37,20 +37,20 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background-color: #333;
-  color: white;
+  background-color: #d9c2cbc6;
+  color: #695d61;
   z-index: 10;
 }
 
 a {
   /* Link styling */
-  color: #8da3eb;
+  color: #695d61;
   text-decoration: none;
 }
 
 a:hover {
   /* Link hover effects */
-  color: #4c6aca;
+  color: #695d61;
   text-decoration: underline;
   transition: 0.2s;
 }
@@ -95,8 +95,8 @@ h1 {
 #model1,
 #model2,
 #model3 {
-  height: 338.4px;
-  width: 453.6px;
+  height: 300px;
+  width: 465px;
   margin-right: 3em;
   margin-left: 6em;
   border: 1px solid #ccc;
@@ -104,8 +104,8 @@ h1 {
 
 img {
   /* Image dimensions and margin */
-  height: 128.8px;
-  width: 171.8px;
+  height: 180px;
+  width: 180px;
   margin: 0.5em;
 }
 
