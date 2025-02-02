@@ -53,7 +53,7 @@ document.querySelector("#app").innerHTML = `
       </div>
 
     
-       Model 2 
+      
 
     <section id="projects">
       <div id="project-row">
