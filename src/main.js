@@ -53,26 +53,35 @@ document.querySelector("#app").innerHTML = `
       </div>
 
     
-      ${/* Model 2 commented out 
+       Model 2 
 
+    <section id="projects">
       <div id="project-row">
-      Model 2
+      Interop
         <div class="three-model">
-          <div id="model2"></div>
+        <a href="./cubeDrawings/collage 313.jpg" target="_blank">
+          <img src="./cubeDrawings/collage 313.jpg" id="model1" alt="Cadavre Exquis Image" />
+          </a>
         </div>
+
         <div id="images-description">
           <div id="images">
-            ${trees
-              .map(
-                (trees, index) =>
-                  `<img src="${trees}" alt="tree${index + 1}" />`
-              )
-              .join("")}
-          </div>
-          <h4 id="description">A 3D tree model is a geometric representation of a tree, featuring a trunk, branches, and foliage. The trunk is typically cylindrical, with textured bark, while the branches extend outward to support leaves or a canopy. It may include roots or flowers for added detail.</h4>
+  <a href="./A2 images/A2.1.jpg" target="_blank">
+    <img src="./A2 images/A2.1.jpg" alt="cube1" />
+  </a>
+  <a href="./A2 images/A2.2.jpg" target="_blank">
+    <img src="./A2 images/A2.2.jpg" alt="cube1" />
+  </a>
+  <a href="./A2 images/A2.3.jpg" target="_blank">
+    <img src="./A2 images/A2.3.jpg" alt="cube1" />
+  </a>
+  <a href="./A2 images/A2.4.jpg" target="_blank">
+    <img src="./AA2 images/A2.4.jpg" alt="cube1" />
+  </a>
+</div>
+          <h4 id="description">An in-depth analysis of the transformation of objects from meshes, subd and nurbs. Each conversion was carefully studied and settings changed to produce variant outcomes. Three file formats were compared: OBJ, STL, FBX, all which were exported from Blender and dissected in Rhino.</h4>
         </div>
       </div>
-      */ ""}
 
       ${/* Model 3 commented out 
       <div id="project-row">
