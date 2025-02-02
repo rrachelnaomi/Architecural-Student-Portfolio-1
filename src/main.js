@@ -76,7 +76,7 @@ document.querySelector("#app").innerHTML = `
     <img src="./A2 images/A2.3.jpg" alt="cube1" />
   </a>
   <a href="./A2 images/A2.4.jpg" target="_blank">
-    <img src="./AA2 images/A2.4.jpg" alt="cube1" />
+    <img src="./A2 images/A2.4.jpg" alt="cube1" />
   </a>
 </div>
           <h4 id="description">An in-depth analysis of the transformation of objects from meshes, subd and nurbs. Each conversion was carefully studied and settings changed to produce variant outcomes. Three file formats were compared: OBJ, STL, FBX, all which were exported from Blender and dissected in Rhino.</h4>
