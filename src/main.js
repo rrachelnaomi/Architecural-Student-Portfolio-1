@@ -53,16 +53,14 @@ document.querySelector("#app").innerHTML = `
       </div>
 
     
-      
+     
 
      <section id="projects">
       <div id="project-row">
       Interop
       
         <div class="three-model">
-        <a href="./3DModels/squirtleWEB.obj" target="_blank">
-          <img src="./3DModels/squirtleWEB.obj" id="model1" alt="Cadavre Exquis Image" />
-          </a>
+          <div id= "model2"></div>
         </div>
 
         <div id="images-description">
@@ -120,5 +118,5 @@ document.querySelector("#app").innerHTML = `
 
 // Create three.js scenes for each
 createThreeScene("#model1", "/3DModels/project1/cube.obj");
-createThreeScene("#model2", "/3DModels/project2/tree.obj");
+createThreeScene("#model2", "/3DModels/project2/squirtleWEB.obj");
 createThreeScene("#model3", "/3DModels/project3/cottage.obj");
