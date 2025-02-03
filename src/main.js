@@ -55,12 +55,13 @@ document.querySelector("#app").innerHTML = `
     
       
 
-    <section id="projects">
+     <section id="projects">
       <div id="project-row">
       Interop
+      
         <div class="three-model">
-        <a href="./cubeDrawings/collage 313.jpg" target="_blank">
-          <img src="./cubeDrawings/collage 313.jpg" id="model1" alt="Cadavre Exquis Image" />
+        <a href="./3DModels/squirtleWEB.obj" target="_blank">
+          <img src="./3DModels/squirtleWEB.obj" id="model1" alt="Cadavre Exquis Image" />
           </a>
         </div>
 
