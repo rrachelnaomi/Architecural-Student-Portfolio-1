@@ -46,6 +46,9 @@ document.querySelector("#app").innerHTML = `
   </a>
   <a href="./cubeDrawings/3rd.jpg" target="_blank">
     <img src="./cubeDrawings/3rd.jpg" alt="cube1" />
+   </a>
+  <a href="./cubeDrawings/3rd.jpg" target="_blank">
+    <img src="./cubeDrawings/pink.png" alt="cube1" />  
   </a>
 </div>
           <h4 id="description">Projet 1, Cadavre Exquis. A collage depicting a topic that inspires and relates to my own core philosophy, meaningful human experience. This piece was made using photoshop to construct the image and develop the visual tagging language to examine the scene.</h4>
