@@ -48,8 +48,8 @@ document.querySelector("#app").innerHTML = `
   <a href="./cubeDrawings/3rd.jpg" target="_blank">
     <img src="./cubeDrawings/3rd.jpg" alt="cube1" />
   </a>
-  <a href="./cubeDrawings/pink2.png" target="_blank">
-    <img src="./cubeDrawings/pink2.png" alt="cube1" />
+  <a href="./cubeDrawings/pink.png" target="_blank">
+    <img src="./cubeDrawings/pink.png" alt="cube1" />
   </a>
 
 </div>
