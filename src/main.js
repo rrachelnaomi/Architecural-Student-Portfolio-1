@@ -62,7 +62,7 @@ document.querySelector("#app").innerHTML = `
 
      <section id="projects">
       <div id="project-row">
-      Interop             
+      Interoperability             
       
         <div class="three-model">
           <div id="model2"></div>
