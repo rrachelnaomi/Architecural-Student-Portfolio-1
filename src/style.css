@@ -124,11 +124,11 @@ img {
 #images-row {
   /* Row layout for images */
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   align-items: center;
   position: relative;
+  
 }
 
 #description {
