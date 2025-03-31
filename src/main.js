@@ -98,17 +98,17 @@ document.querySelector("#app").innerHTML = `
 
         <div id="images-description">
           <div id="images">
+  <a href="./A3 images/website image 4.jpg" target="_blank">
+    <img src="./A3 images/website image 4.jpg" alt="cube1" />
+  </a>
   <a href="./A3 images/website image 1.jpg" target="_blank">
     <img src="./A3 images/website image 1.jpg" alt="cube1" />
   </a>
   <a href="./A3 images/website image 2.jpg" target="_blank">
     <img src="./A3 images/website image 2.jpg" alt="cube1" />
   </a>
-  <a href="./A2 images/A2.3.jpg" target="_blank">
-    <img src="./A2 images/A2.3.jpg" alt="cube1" />
-  </a>
-  <a href="./A2 images/A2.4.jpg" target="_blank">
-    <img src="./A2 images/A2.4.jpg" alt="cube1" />
+  <a href="./A3 images/website image 3.jpg" target="_blank">
+    <img src="./A3 images/website image 3.jpg" alt="cube1" />
   </a>
 </div>
           <h4 id="description">Project 3, object design. A planter, based on the exquisite corpse, that responds to human emotion. The physical manifestation of emotions was the driving concept for this object. A planter that could harbour a plant which responds to emotion. In a constant state of change and influx, tethered to someone’s psyche.
