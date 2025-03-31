@@ -98,11 +98,11 @@ document.querySelector("#app").innerHTML = `
 
         <div id="images-description">
           <div id="images">
-  <a href="./A2 images/A2.1.jpg" target="_blank">
-    <img src="./A2 images/A2.1.jpg" alt="cube1" />
+  <a href="./A3 images/website image 1.jpg" target="_blank">
+    <img src="./A3 images/website image 1.jpg" alt="cube1" />
   </a>
-  <a href="./A2 images/A2.2.jpg" target="_blank">
-    <img src="./A2 images/A2.2.jpg" alt="cube1" />
+  <a href="./A3 images/website image 2.jpg" target="_blank">
+    <img src="./A3 images/website image 2.jpg" alt="cube1" />
   </a>
   <a href="./A2 images/A2.3.jpg" target="_blank">
     <img src="./A2 images/A2.3.jpg" alt="cube1" />
