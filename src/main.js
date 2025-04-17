@@ -123,7 +123,7 @@ document.querySelector("#app").innerHTML = `
       Place Making             
       
         <div class="three-model">
-          <div id="model1"></div>
+          <div id="model4"></div>
         </div>
 
         <div id="images-description">
@@ -194,7 +194,8 @@ document.querySelector("#app").innerHTML = `
 `;
 
 // Create three.js scenes for each
-createThreeScene("#model1", "/3DModels/project4/arbora.obj");
+//createThreeScene("#model1", "/3DModels/project4/arbora.obj");
 createThreeScene("#model2", "/3DModels/project2/squirtWEB.obj");
 createThreeScene("#model3", "/3DModels/project3/meta2.obj");
+createThreeScene("#model4", "/3DModels/project3/meta2.obj");
 
