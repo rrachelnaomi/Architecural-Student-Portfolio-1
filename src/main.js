@@ -173,7 +173,7 @@ document.querySelector("#app").innerHTML = `
   </a>
 
 </div>
-          <h4 id="description">Projet 5, Flourencourt. Florencourt’s aesthetic draws heavily from my Exquisite Corpse Experience. The vivid oil painting, overflowing with roses, served as the primary inspiration for the terrain design. Its lush, dreamlike quality led me to create meadows filled with blooming flowers, echoing the painting’s colorful energy. Cherry blossom trees, reminiscent of those in the artwork, anchor the landscape, while the old-style houses reflect the time period. Play on spatial: https://www.spatial.io/s/FlourenCourt-67feb89e7096556e2726a35c?share=1408967552678043122  </h4>
+          <h4 id="description">Projet 5, Flourencourt. Florencourt’s aesthetic draws heavily from my Exquisite Corpse Experience. The vivid oil painting, overflowing with roses, served as the primary inspiration for the terrain design. An open world to explore in the meta verse show casing my work from DSGN 313. Play on spatial: https://www.spatial.io/s/FlourenCourt-67feb89e7096556e2726a35c?share=1408967552678043122  </h4>
         </div>
       </div>
 
