@@ -111,7 +111,7 @@ document.querySelector("#app").innerHTML = `
     <img src="./A3 images/website image 3.jpg" alt="cube1" />
   </a>
 </div>
-          <h4 id="description">Project 3, object design. A planter, based on the exquisite corpse, that responds to human emotion. The physical manifestation of emotions was the driving concept for this object. A planter that could harbour a plant which responds to emotion. In a constant state of change and influx, tethered to someone’s psyche.
+          <h4 id="description">Project 3, Metamorphosis. A planter, based on the exquisite corpse, that responds to human emotion. The physical manifestation of emotions was the driving concept for this object. A planter that could harbour a plant which responds to emotion. In a constant state of change and influx, tethered to someone’s psyche.
 </h4>
         </div>
       </div>
@@ -196,5 +196,5 @@ document.querySelector("#app").innerHTML = `
 // Create three.js scenes for each
 createThreeScene("#model1", "/3DModels/project4/A4modelsmall.obj");
 createThreeScene("#model2", "/3DModels/project2/squirtWEB.obj");
-createThreeScene("#model3", "/3DModels/project3/A3modelobj.obj");
+createThreeScene("#model3", "/3DModels/project3/meta.obj");
 
