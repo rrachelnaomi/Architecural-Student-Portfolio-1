@@ -93,7 +93,7 @@ document.querySelector("#app").innerHTML = `
       Object Design             
       
         <div class="three-model">
-          <div id="model2"></div>
+          <div id="model3"></div>
         </div>
 
         <div id="images-description">
