@@ -196,5 +196,5 @@ document.querySelector("#app").innerHTML = `
 // Create three.js scenes for each
 createThreeScene("#model1", "/3DModels/project4/A4modelsmall.obj");
 createThreeScene("#model2", "/3DModels/project2/squirtWEB.obj");
-createThreeScene("#model3", "/3DModels/project3/meta.obj");
+createThreeScene("#model3", "/3DModels/project3/meta2.obj");
 
