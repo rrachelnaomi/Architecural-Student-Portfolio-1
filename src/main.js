@@ -118,6 +118,68 @@ document.querySelector("#app").innerHTML = `
 
     </section>
 
+          <section id="projects">
+      <div id="project-row">
+      Place Making             
+      
+        <div class="three-model">
+          <div id="model1"></div>
+        </div>
+
+        <div id="images-description">
+          <div id="images">
+  <a href="./A4 images/A4.1.jpg" target="_blank">
+    <img src="./A4 images/A4.1.jpg" alt="cube1" />
+  </a>
+  <a href="./A4 images/A4.2.jpg" target="_blank">
+    <img src="./A4 images/A4.2.jpg" alt="cube1" />
+  </a>
+  <a href="./A4 images/A4.3.jpg" target="_blank">
+    <img src="./A4 images/A4.3.jpg" alt="cube1" />
+  </a>
+  <a href="./A4 images/A4.4.jpg" target="_blank">
+    <img src="./A4 images/A4.4.jpg" alt="cube1" />
+  </a>
+</div>
+          <h4 id="description">Project 4, Place making.Fostering a deep connection between people and the natural world is essential for a regenerative future. With this principle as our guiding parameter, we designed a pavilion that builds around nature, creating eleven openings. Its funnel-shaped form was intentionally crafted to surround and support the growth of trees, mirroring their natural upward expansion.
+</h4>
+        </div>
+      </div>
+
+    </section>
+
+    <section id="projects">
+      <div id="project-row">
+      Game Engines
+        <div class="three-model">
+        <a href="./A5 images/A5.4.jpg" target="_blank">
+          <img src="./A5 images/A5.4.jpg" id="model1" alt="Flourencourt Image" />
+          </a>
+        </div>
+
+        <div id="images-description">
+          <div id="images">
+  <a href="./A5 images/A5.1.jpg" target="_blank">
+    <img src="./A5 images/A5.1.jpg" alt="cube1" />
+  </a>
+  <a href="./A5 images/A5.2.jpg" target="_blank">
+    <img src="./A5 images/A5.2.jpg" alt="cube1" />
+  </a>
+  <a href="./A5 images/A5.3.jpg target="_blank">
+    <img src="./A5 images/A5.3.jpg" alt="cube1" />
+  </a>
+  <a href="./cubeDrawings/pink.png" target="_blank">
+    <img src="./cubeDrawings/pink.png" alt="cube1" />
+  </a>
+
+</div>
+          <h4 id="description">Projet 5, Flourencourt. Florencourt’s aesthetic draws heavily from my Exquisite Corpse Experience. The vivid oil painting, overflowing with roses, served as the primary inspiration for the terrain design. Its lush, dreamlike quality led me to create meadows filled with blooming flowers, echoing the painting’s colorful energy. Cherry blossom trees, reminiscent of those in the artwork, anchor the landscape, while the old-style houses reflect the historical ambiance suggested by the painting’s era. To heighten the immersive experience, I added gently falling cherry blossoms that drift into the camera view, inviting viewers deeper into the whimsical world of Florencourt. Play on spatial: https://www.spatial.io/s/FlourenCourt-67feb89e7096556e2726a35c?share=1408967552678043122  </h4>
+        </div>
+      </div>
+
+
+    
+
     <ul id="footer-items">
       <li>Email: ${data.contact.email}</li>
       <li>Phone: ${data.contact.phone}</li>
@@ -132,6 +194,7 @@ document.querySelector("#app").innerHTML = `
 `;
 
 // Create three.js scenes for each
-createThreeScene("#model1", "/3DModels/project1/cube.obj");
+createThreeScene("#model1", "/3DModels/project 4/A4model.obj");
 createThreeScene("#model2", "/3DModels/project2/squirtWEB.obj");
 createThreeScene("#model3", "/3DModels/project3/PLANTER(2).obj");
+
