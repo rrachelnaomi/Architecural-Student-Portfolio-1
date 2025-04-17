@@ -120,11 +120,15 @@ document.querySelector("#app").innerHTML = `
 
           <section id="projects">
       <div id="project-row">
-      Place Making             
+      Place Making
       
-        <div class="three-model">
-          <div id="model4"></div>
+           <div class="three-model">
+        <a href="./A4 images/A4.3.jpg" target="_blank">
+          <img src="./A4 images/A4.3.jpg" id="model1" alt="Flourencourt Image" />
+          </a>
         </div>
+      
+    
 
         <div id="images-description">
           <div id="images">
